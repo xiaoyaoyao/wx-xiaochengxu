@@ -1,0 +1,11 @@
+.login-form{
+  position: relative;
+}
+.section{
+   margin-top: 70rpx; 
+}
+input{
+  padding-left: 30rpx;
+  height: 34px;
+  border-bottom: 1px solid #AAA;
+}

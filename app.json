@@ -1,0 +1,26 @@
+{
+    "pages":[
+         "pages/login/login",
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/others/others"
+    ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/others/others",
+        "text": "日志"
+      }
+    ]
+  },
+    "window":{
+        "backgroundTextStyle":"light",
+        "navigationBarBackgroundColof":"#fff",
+        "navigationBarTitleText":"WeChat",
+        "navigationBarTextStyle":"white"
+    }
+}
